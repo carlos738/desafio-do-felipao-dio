@@ -16,3 +16,17 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
  */
+// Resolução
+let nome = "Arthas";
+let XP = 7500;
+let nivel = "";
+
+if (xp < 1000) {
+  nivel = "Ferro";
+} else if (xp <= 2000) {
+  nivel = "Bronze";
+} else if (xp <= 5000) {
+  nivel = "Prata";
+} else if (xp <= 7000) {
+  nivel = "Ouro";
+}
