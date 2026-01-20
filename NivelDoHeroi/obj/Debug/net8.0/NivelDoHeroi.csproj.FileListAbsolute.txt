@@ -1,0 +1,15 @@
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/bin/Debug/net8.0/NivelDoHeroi
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/bin/Debug/net8.0/NivelDoHeroi.deps.json
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/bin/Debug/net8.0/NivelDoHeroi.runtimeconfig.json
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/bin/Debug/net8.0/NivelDoHeroi.dll
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/bin/Debug/net8.0/NivelDoHeroi.pdb
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.AssemblyInfoInputs.cache
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.AssemblyInfo.cs
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.csproj.CoreCompileInputs.cache
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.sourcelink.json
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.dll
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/refint/NivelDoHeroi.dll
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.pdb
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/NivelDoHeroi.genruntimeconfig.cache
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/desafio-do-felipao-dio/NivelDoHeroi/obj/Debug/net8.0/ref/NivelDoHeroi.dll
