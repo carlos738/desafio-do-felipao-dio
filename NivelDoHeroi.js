@@ -21,12 +21,22 @@ let nome = "Arthas";
 let XP = 7500;
 let nivel = "";
 
-if (xp < 1000) {
+if (XP < 1000) {
   nivel = "Ferro";
-} else if (xp <= 2000) {
+} else if (XP <= 2000) {
   nivel = "Bronze";
-} else if (xp <= 5000) {
+} else if (XP <= 5000) {
   nivel = "Prata";
-} else if (xp <= 7000) {
+} else if (XP <= 7000) {
   nivel = "Ouro";
+} else if (XP <= 8000) {
+  nivel = "Platina";
+} else if (XP <= 9000) {
+  nivel = "Ascendente";
+} else if (XP <= 10000) {
+  nivel = "Imortal";
+} else {
+  nivel = "Radiante";
 }
+
+console.log(`O herói de nome ${nome} está no nível de ${nivel}`);
