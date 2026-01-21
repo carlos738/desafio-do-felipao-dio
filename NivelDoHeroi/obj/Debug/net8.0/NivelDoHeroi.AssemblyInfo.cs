@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NivelDoHeroi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60f0b17ea24ee7a45a5f74793652749dead1441e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76daf22fba52d04541f2f2289d16a8ed0040d6f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NivelDoHeroi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NivelDoHeroi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
